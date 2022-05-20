@@ -1,0 +1,1 @@
+<?php if (!defined('_PHONHO_HPA')) { die('Not access'); } else { $count = 10788; $version = '© xCydia.Tk HanhPhucAo Editor'; } ?>
